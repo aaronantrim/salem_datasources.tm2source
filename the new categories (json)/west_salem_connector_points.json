@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Gehlar @ Eola Heights Apts.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0933715, 44.944681, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Hoover @ Carter", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0881503, 44.9464378, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Eola @ Burley Hill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0873858, 44.9430073, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Burley Hill @ Feather Sky", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0831912, 44.9455435, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mule Deer @ Eola", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0808293, 44.9424596, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Burley Hill @ Whitetail Deer", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.079482, 44.9481894, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Clarmount @ Margarett", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0756106, 44.9452482, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mullusk @ Onyx", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.076616, 44.9581883, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Roadrunner @ Mousebird", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0732299, 44.9622934, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kingwood @ Eola", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0708626, 44.9395804, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Westminster @ Lambert", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0723315, 44.966539, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Satara @ Popcorn", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0751003, 44.9528163, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Parkway @ Lupin", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0619819, 44.9543461, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kingwood @ Lefor", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0693242, 44.9479719, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Lowen @ Loring", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0722108, 44.9424922, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Willie @ Silas", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0673694, 44.9524118, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Chapman Hill @ Ashland", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0702704, 44.956283, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Orchard Heights @ Glen Creek Village", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0626955, 44.9567779, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Linwood @ Orchard Ridge Apts.", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0649868, 44.9616451, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Linwood @ Cresthill", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0644193, 44.9651554, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Karen @ Cardinal", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0588456, 44.9525313, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Edgewater @ Safeway", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0630797, 44.9383377, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Doaks Ferry @ Ptarmigan", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0833571, 44.9529404, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Titan @ Orchard Heights (West Salem HS)", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0861211, 44.9595447, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Wintergreen @ Winchester", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0672705, 44.9691171, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Glen Creek Transit Center", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ -123.0484574, 44.9506155, 0.0 ] } }
+]
+}

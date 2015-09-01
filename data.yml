@@ -1,0 +1,76 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: trilliumtransit.0394bf39
+  rev: s-004521e0
+  saveCenter: true
+attribution: ''
+center: 
+  - -123.0527
+  - 44.9423
+  - 12
+description: ''
+Layer: 
+  - id: west_salem_connector_points
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/west_salem_connector_points.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: west_salem_connector_points
+    fields: 
+      Description: String
+      Name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: frequent
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/salem_frequent.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: frequent
+    fields: 
+      Description: String
+      Name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: basic
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/salem_basic.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: basic
+    fields: 
+      Description: String
+      Name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: regional
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/salem_regional.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: regional
+    fields: 
+      Description: String
+      Name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+  - id: standard
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/salem_standard.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: standard
+    fields: 
+      Description: String
+      Name: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
+maxzoom: 16
+minzoom: 0
+name: salem_routes

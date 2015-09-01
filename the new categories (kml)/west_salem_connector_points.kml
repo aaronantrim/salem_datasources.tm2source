@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Connector Points</name>
+	<open>1</open>
+	<Placemark>
+		<name>Gehlar @ Eola Heights Apts.</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0933715,44.944681,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hoover @ Carter</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0881503,44.9464378,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Eola @ Burley Hill</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0873858,44.9430073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Burley Hill @ Feather Sky</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0831912,44.9455435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mule Deer @ Eola</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0808293,44.9424596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Burley Hill @ Whitetail Deer</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.079482,44.9481894,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Clarmount @ Margarett</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0756106,44.9452482,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mullusk @ Onyx</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.076616,44.9581883,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Roadrunner @ Mousebird</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0732299,44.9622934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kingwood @ Eola</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0708626,44.9395804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Westminster @ Lambert</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0723315,44.966539,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Satara @ Popcorn</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0751003,44.9528163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Parkway @ Lupin</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0619819,44.9543461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kingwood @ Lefor</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0693242,44.9479719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lowen @ Loring</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0722108,44.9424922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Willie @ Silas</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0673694,44.9524118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Chapman Hill @ Ashland</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0702704,44.956283,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Orchard Heights @ Glen Creek Village</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0626955,44.9567779,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Linwood @ Orchard Ridge Apts.</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0649868,44.9616451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Linwood @ Cresthill</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0644193,44.9651554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Karen @ Cardinal</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0588456,44.9525313,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Edgewater @ Safeway</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0630797,44.9383377,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Doaks Ferry @ Ptarmigan</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0833571,44.9529404,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Titan @ Orchard Heights (West Salem HS)</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0861211,44.9595447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wintergreen @ Winchester</name>
+		<styleUrl>#icon-ci-1-nodesc</styleUrl>
+		<ExtendedData>
+		</ExtendedData>
+		<Point>
+			<coordinates>-123.0672705,44.9691171,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>
