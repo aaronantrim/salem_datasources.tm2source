@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.077776343721,
+                    44.95021417944097,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "west_salem_connector_center"
+            }
+        }
+    ]
+}

@@ -2,15 +2,26 @@ _prefs:
   disabled: []
   inspector: false
   mapid: trilliumtransit.0394bf39
-  rev: s-004521e0
+  rev: s-46a150a1
   saveCenter: true
 attribution: ''
 center: 
-  - -123.0527
-  - 44.9423
-  - 12
+  - -123.0695
+  - 44.9507
+  - 14
 description: ''
 Layer: 
+  - id: west_salem_connector_center
+    Datasource: 
+      file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/west_salem_connector_center.json
+      layer: OGRGeoJSON
+      type: ogr
+    description: west_salem_connector_center
+    fields: 
+      name: String
+    properties: 
+      "buffer-size": 8
+    srs: "+init=epsg:4326"
   - id: west_salem_connector_points
     Datasource: 
       file: /Users/aaron/Mapbox Studio files/salem_datasources.tm2source/the new categories (json)/west_salem_connector_points.json
