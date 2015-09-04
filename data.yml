@@ -2,11 +2,11 @@ _prefs:
   disabled: []
   inspector: false
   mapid: trilliumtransit.0394bf39
-  rev: s-46a150a1
+  rev: s-4b409e6e
   saveCenter: true
 attribution: ''
 center: 
-  - -123.0695
+  - -123.0694
   - 44.9507
   - 14
 description: ''
@@ -20,7 +20,7 @@ Layer:
     fields: 
       name: String
     properties: 
-      "buffer-size": 8
+      "buffer-size": 64
     srs: "+init=epsg:4326"
   - id: west_salem_connector_points
     Datasource: 
@@ -32,7 +32,7 @@ Layer:
       Description: String
       Name: String
     properties: 
-      "buffer-size": 8
+      "buffer-size": 30
     srs: +proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs
   - id: frequent
     Datasource: 
